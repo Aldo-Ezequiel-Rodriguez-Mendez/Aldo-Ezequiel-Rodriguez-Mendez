@@ -12,7 +12,7 @@
 Mi nombre es Aldo, actualmente soy un estudiante de la carrera en ingenieria en sistemas computacionales, me encanta la programación, los videojuegos, escuchar musica, ver anime, estudiar y el aprendizaje constante.
 
 ### 🧐 Algunos datos sobre mi
-- 💼 Trabajo en una agencia aduanal (Autoazure).
+- 💼 Trabajo en AutoAzur.
 - ✍️ Mi aprendizaje se basa mucho en ver y aplicar lo que veo (soy demasiado visual).
 - 😄 Mis nicknames: inso / AlMy.
 - 🖥️ Ambiente de codificación: Dark 🕶️ + Musica 🎧 .
