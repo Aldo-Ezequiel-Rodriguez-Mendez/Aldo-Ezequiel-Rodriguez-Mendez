@@ -14,9 +14,9 @@ Mi nombre es Aldo, actualmente soy un estudiante de la carrera en ingenieria en 
 ### 🧐 Algunos datos sobre mi
 - 💼 Trabajo en AutoAzur.
 - ✍️ Mi aprendizaje se basa mucho en ver y aplicar lo que veo (soy demasiado visual).
-- 😄 Mis nicknames: inso / AlMy.
+- 😄 Mis nicknames: inso / insomniac
 - 🖥️ Ambiente de codificación: Dark 🕶️ + Musica 🎧 .
-- ⚡ Datos divertidos: Me dicen que soy muy mandilon con mi novia pero pueeeeees XD
+- ⚡ Datos divertidos: Me dicen que soy muy serio o antisocial pero es puro show jajajaj ;)
 - 💬 Frases favoritas: 
 
 > "No es vergüenza no saber, sino saber que no sabes y no querer saber" - Bruno Lopez Takeyas.
