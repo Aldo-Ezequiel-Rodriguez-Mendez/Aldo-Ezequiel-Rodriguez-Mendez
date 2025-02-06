@@ -16,13 +16,11 @@ Mi nombre es Aldo, actualmente soy un estudiante de la carrera en ingenieria en 
 - 😄 Mis nicknames: inso / insomniac
 - 🖥️ Ambiente de codificación: Dark 🕶️ + Musica 🎧 .
 - ⚡ Datos divertidos: Me dicen que soy muy serio o antisocial pero es puro show jajajaj ;)
-- 💬 Frases favoritas: 
+- 💬 Frases favoritas:
+- > "No es vergüenza no saber, sino saber que no sabes y no querer saber" - Bruno Lopez Takeyas.
+- > "Solo existe un bien: el conocimiento. Solo hay un mal: la ignorancia" Sócrates.
+- > "No hay que ser grande para empezar, pero hay que empezar para ser grande" - Zig Ziglar.
 
-    - > "No es vergüenza no saber, sino saber que no sabes y no querer saber" - Bruno Lopez Takeyas.
-
-    - > "Solo existe un bien: el conocimiento. Solo hay un mal: la ignorancia" Sócrates.
-
-    - > "No hay que ser grande para empezar, pero hay que empezar para ser grande" - Zig Ziglar.
 
 ### 👼 Si
 Muchas gracias por leer mi README, al paracer si soy algo interesante ;) ...
